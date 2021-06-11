@@ -269,12 +269,12 @@ body { background: #9CC66A; }
 
 	.two-line-slide {
 	font-size: .6em;
-	margin: 20px 40px 0px 40px;
+	margin: 30px 40px 0px 40px;
 	}
 
 	.three-line-slide {
 	font-size: .6em;
-	margin: 6px 30px 0px 30px;
+	margin: 10px 30px 0px 30px;
 	}
 
 }
@@ -284,12 +284,12 @@ body { background: #9CC66A; }
 
 
 	.next {
-  	right: -235px;
+  	right: -225px;
   	border-radius: 3px 0 0 3px;
 	}
 
 	.prev {
-  	left: -235px;
+  	left: -225px;
   	border-radius: 3px 0 0 3px;
 	}
 
@@ -298,13 +298,13 @@ body { background: #9CC66A; }
 	}
 
 	.two-line-slide {
-	font-size: .8em;
+	font-size: .7em;
 	margin: 20px 30px 0px 30px;
 	}
 
 	.three-line-slide {
 	font-size: .7em;
-	margin: 10px 35px 0px 35px;
+	margin: 10px 30px 0px 30px;
 	}
 
 }
