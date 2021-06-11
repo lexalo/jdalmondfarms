@@ -221,10 +221,6 @@ body { background: #9CC66A; }
 
 @media (min-width:300px) and (max-width:449px) {
 
-	.container {
-		width: 100%;
-	}
-
 	.next {
   	right: -140px;
   	border-radius: 3px 0 0 3px;
@@ -254,9 +250,6 @@ body { background: #9CC66A; }
 
 @media (min-width:450px) and (max-width:575px) {
 
-	.container {
-		width: 100%;
-	}
 
 
 	.next {
@@ -288,10 +281,6 @@ body { background: #9CC66A; }
 
 
 @media (min-width:576px) and (max-width:767px) {
-
-	.container {
-		width: 100%;
-	}
 
 
 	.next {
