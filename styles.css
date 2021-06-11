@@ -10,6 +10,7 @@ body { background: #9CC66A; }
 	#logo { width: 250px;
 		padding-left: 20px;
 		margin: 15px; }
+	#logo-box { max-width: 250px;}
 	nav ul { list-style: none;
 		font-family: poiret one, calibri, arial;
 		color: #ffffff; }
@@ -109,7 +110,8 @@ body { background: #9CC66A; }
 		font-family: 'poiret one', calibri, arial;
 		/* transition: .4s; */ }
 
-#hamburger { cursor: pointer; }
+#hamburger { cursor: pointer;
+		max-width: 40px; }
 
 #mobile-menu #close-x { display: block;
 		margin-left: 240px;
