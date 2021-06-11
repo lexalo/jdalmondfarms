@@ -221,6 +221,10 @@ body { background: #9CC66A; }
 
 @media (min-width:300px) and (max-width:449px) {
 
+	.container {
+		width: 100%;
+	}
+
 	.next {
   	right: -140px;
   	border-radius: 3px 0 0 3px;
@@ -249,6 +253,10 @@ body { background: #9CC66A; }
 }
 
 @media (min-width:450px) and (max-width:575px) {
+
+	.container {
+		width: 100%;
+	}
 
 
 	.next {
@@ -281,14 +289,18 @@ body { background: #9CC66A; }
 
 @media (min-width:576px) and (max-width:767px) {
 
+	.container {
+		width: 100%;
+	}
+
 
 	.next {
-  	right: -210px;
+  	right: -235px;
   	border-radius: 3px 0 0 3px;
 	}
 
 	.prev {
-  	left: -210px;
+  	left: -235px;
   	border-radius: 3px 0 0 3px;
 	}
 
@@ -298,11 +310,12 @@ body { background: #9CC66A; }
 
 	.two-line-slide {
 	font-size: .8em;
-	margin-top: 20px;
+	margin: 20px 30px 0px 30px;
 	}
 
 	.three-line-slide {
-	font-size: .8em;
+	font-size: .7em;
+	margin: 10px 35px 0px 35px;
 	}
 
 }
