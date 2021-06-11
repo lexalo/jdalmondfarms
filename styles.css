@@ -220,12 +220,12 @@ body { background: #9CC66A; }
 @media (max-width:449px) {
 
 	.next {
-  	right: -120px;
+  	right: -150px;
   	border-radius: 3px 0 0 3px;
 	}
 
 	.prev {
-  	left: -120px;
+  	left: -150px;
   	border-radius: 3px 0 0 3px;
 	}
 
