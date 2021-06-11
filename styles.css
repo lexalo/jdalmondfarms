@@ -217,7 +217,21 @@ body { background: #9CC66A; }
   background-color: #9AC46A;
 }
 
-@media (max-width:575px) {
+@media (min-width:400px) and (max width:449px) {
+
+	.next {
+  	right: -150px;
+  	border-radius: 3px 0 0 3px;
+	}
+
+	.prev {
+  	left: -150px;
+  	border-radius: 3px 0 0 3px;
+	}
+
+}
+
+@media (min-width:450px) and (max-width:575px) {
 
 
 	.next {
