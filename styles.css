@@ -217,7 +217,7 @@ body { background: #9CC66A; }
   background-color: #9AC46A;
 }
 
-@media (min-width:400px) and (max width:449px) {
+@media (max-width:449px) {
 
 	.next {
   	right: -100px;
